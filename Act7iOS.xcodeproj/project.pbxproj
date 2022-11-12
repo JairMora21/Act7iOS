@@ -13,6 +13,7 @@
 		FB47549729203FE2005BC780 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB47549529203FE2005BC780 /* Main.storyboard */; };
 		FB47549929203FE7005BC780 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB47549829203FE7005BC780 /* Assets.xcassets */; };
 		FB47549C29203FE7005BC780 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB47549A29203FE7005BC780 /* LaunchScreen.storyboard */; };
+		FB4754A529204280005BC780 /* SliderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4754A429204280005BC780 /* SliderCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FB47549829203FE7005BC780 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB47549B29203FE7005BC780 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB47549D29203FE7005BC780 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB4754A429204280005BC780 /* SliderCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FB47549829203FE7005BC780 /* Assets.xcassets */,
 				FB47549A29203FE7005BC780 /* LaunchScreen.storyboard */,
 				FB47549D29203FE7005BC780 /* Info.plist */,
+				FB4754A429204280005BC780 /* SliderCollectionViewCell.swift */,
 			);
 			path = Act7iOS;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				FB47549429203FE2005BC780 /* ViewController.swift in Sources */,
 				FB47549029203FE2005BC780 /* AppDelegate.swift in Sources */,
 				FB47549229203FE2005BC780 /* SceneDelegate.swift in Sources */,
+				FB4754A529204280005BC780 /* SliderCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
